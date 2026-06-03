@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Data%20%26%20Web%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Miguel Sánchez</h1>
+<h1 align="center">Hola, soy Carlos Sánchez</h1>
 
 <p align="center">
   Especialista en análisis de datos, Power BI, modelado de información y desarrollo web moderno.
@@ -76,7 +76,7 @@ Soy un perfil híbrido entre el **análisis de datos estratégico** y el **desar
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=CharlySan73&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
