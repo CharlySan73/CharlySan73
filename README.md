@@ -1,74 +1,89 @@
-<!-- Banner Minimalista Animado -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Data%20%26%20Web%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
-<!-- Contenedor Principal en Dos Columnas (Biografía + Animación) -->
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<h1 align="center">Hola, soy Miguel Sánchez</h1>
+
+<p align="center">
+  Especialista en análisis de datos, Power BI, modelado de información y desarrollo web moderno.
+</p>
+
+<p align="center">
+  <a href="TU_LINK_DE_LINKEDIN_AQUÍ">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_CORREO_AQUÍ">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<table>
   <tr>
     <td width="60%" valign="top">
-      <h3>⚡ Sobre Mí</h3>
-      <p>Soy un híbrido entre el <b>análisis de datos estratégico</b> y el <b>desarrollo web moderno</b>. Me apasiona estructurar arquitecturas de datos limpias y transformarlas en interfaces visuales e interactivas que hagan sentido.</p>
-      <ul>
-        <li>📊 Especialista en modelado de datos, DAX y Power Query.</li>
-        <li>⚙️ Diseñador de flujos ETL eficientes.</li>
-        <li>💻 Creador de aplicaciones web con React y TypeScript.</li>
-      </ul>
+
+### Sobre mí
+
+Soy un perfil híbrido entre el **análisis de datos estratégico** y el **desarrollo web moderno**. Me interesa construir soluciones que no solo funcionen técnicamente, sino que también sean claras, escalables y útiles para la toma de decisiones.
+
+- Especialista en modelado de datos, DAX y Power Query.
+- Diseño de procesos ETL eficientes y limpios.
+- Desarrollo de interfaces web con React y TypeScript.
+- Enfoque en soluciones visuales, interactivas y orientadas al usuario.
+
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Ilustración dinámica de programación -->
-      <img src="https://giphy.com" width="180" alt="Data Dev" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation" />
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<!-- Sección de Skills en Cuadrícula Organizada -->
-### 🛠️ Ecosistema Tecnológico
+## Ecosistema tecnológico
 
-#### 📊 Data & Business Intelligence
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+### Data & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-1F6FEB?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-111827?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-#### 💻 Frontend & Software Engineering
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+### Frontend & Software Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<br>
+---
 
-<!-- Estadísticas en Bloque Moderno (Estilo Catppuccin Dark) -->
-### 📈 Actividad y Rendimiento
+## Actividad y rendimiento
 
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" />
-  <img src="https://vercel.app" alt="Langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Gráfica de Líneas de Actividad Semanal -->
 <p align="center">
-  <img src="https://herokuapp.com" width="100%" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
-<br>
+---
 
-<!-- Footer de Contacto Minimalista -->
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN_AQUÍ">
-    <img src="https://shields.io" />
-  </a>
-  &nbsp;&nbsp;📄&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO_AQUÍ">
-    <img src="https://shields.io" />
-  </a>
-</p>
+## Enfoque profesional
+
+Me gusta trabajar en proyectos donde los datos, la tecnología y la experiencia del usuario se conectan para resolver problemas reales.
+
+```txt
+Datos claros + procesos eficientes + interfaces útiles = mejores decisiones
