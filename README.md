@@ -1,62 +1,74 @@
-<!-- Banner animado superior -->
+<!-- Banner Minimalista Animado -->
 <p align="center">
-  <img src="https://vercel.app👋&fontSize=40&animation=fadeIn" alt="Banner Charly Brown" />
+  <img src="https://vercel.app" width="100%" alt="Banner" />
 </p>
 
-<!-- Presentación / Biografía -->
-<h3 align="center">Data Analyst & Developer</h3>
+<!-- Contenedor Principal en Dos Columnas (Biografía + Animación) -->
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ Sobre Mí</h3>
+      <p>Soy un híbrido entre el <b>análisis de datos estratégico</b> y el <b>desarrollo web moderno</b>. Me apasiona estructurar arquitecturas de datos limpias y transformarlas en interfaces visuales e interactivas que hagan sentido.</p>
+      <ul>
+        <li>📊 Especialista en modelado de datos, DAX y Power Query.</li>
+        <li>⚙️ Diseñador de flujos ETL eficientes.</li>
+        <li>💻 Creador de aplicaciones web con React y TypeScript.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Ilustración dinámica de programación -->
+      <img src="https://giphy.com" width="180" alt="Data Dev" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  Soy un apasionado del mundo de los datos con habilidades sólidas en programación. Me especializo en transformar datos en decisiones estratégicas y construir interfaces interactivas para visualizarlos. Actualmente enfocado en bases de datos, reportería inteligente y desarrollo moderno.
+<br>
+
+<!-- Sección de Skills en Cuadrícula Organizada -->
+### 🛠️ Ecosistema Tecnológico
+
+#### 📊 Data & Business Intelligence
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-<p align="center">
-  ⚙️ <b>Procesos ETL / Despliegues</b> | 📊 <b>Business Intelligence</b> | 💻 <b>Web Dev</b>
+#### 💻 Frontend & Software Engineering
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
----
+<br>
 
-<!-- Sección de Tecnologías -->
-<h3 align="center">🛠️ Stack Tecnológico</h3>
+<!-- Estadísticas en Bloque Moderno (Estilo Catppuccin Dark) -->
+### 📈 Actividad y Rendimiento
 
 <p align="center">
-  <!-- Data & BI -->
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Pentaho" />
-  <br><br>
-  <!-- Frontend & Dev -->
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <br><br>
-  <!-- Otros Lenguajes -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
+  <img src="https://vercel.app" alt="Stats" />
+  <img src="https://vercel.app" alt="Langs" />
 </p>
 
----
-
-<!-- Sección de Estadísticas Dinámicas -->
-<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
-
+<!-- Gráfica de Líneas de Actividad Semanal -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-  <br><br>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
+  <img src="https://herokuapp.com" width="100%" alt="Streak" />
 </p>
 
----
+<br>
 
-<!-- Redes de Contacto -->
-<h3 align="center">Let's Connect! 🌐</h3>
+<!-- Footer de Contacto Minimalista -->
 <p align="center">
-  <a href="TU_LINK_DE_LINKEDIN_AQUÍ" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="TU_LINK_DE_LINKEDIN_AQUÍ">
+    <img src="https://shields.io" />
   </a>
+  &nbsp;&nbsp;📄&nbsp;&nbsp;
   <a href="mailto:TU_CORREO_AQUÍ">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://shields.io" />
   </a>
 </p>
